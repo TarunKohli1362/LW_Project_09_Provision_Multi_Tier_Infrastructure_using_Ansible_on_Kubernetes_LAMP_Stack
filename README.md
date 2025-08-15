@@ -1,4 +1,3 @@
-# LW_Project_09_Provision_Multi_Tier_Infrastructure_using_Ansible_on_Kubernetes_LAMP_Stack
 # 🚀 Multi-Tier LAMP Stack Infrastructure using Ansible on Kubernetes
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
